@@ -162,3 +162,5 @@ For further reading and deeper dives into the technical aspects of YOLO, refer t
 ---
 
 *By exploring the evolution, technical design, and implementation details, this post aims to provide you with both the conceptual framework and practical insights needed to harness the power of YOLO for your next computer vision project.*
+
+%%[newcoffee]
